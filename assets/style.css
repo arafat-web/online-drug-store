@@ -109,3 +109,14 @@ a {
     font-weight: 300;
     letter-spacing: 1px;
 }
+.footer-bottom p{
+    color: rgba(0, 0, 0, 0.8);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.footer-bottom a{
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 500;
+}
